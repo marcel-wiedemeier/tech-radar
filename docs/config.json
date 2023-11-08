@@ -21,7 +21,7 @@
       "quadrant": 0,
       "ring": 2,
       "label": "Wardley Mapping",
-      "link": "https://wiki.vifn.app/x/XIJmAw",
+      "link": "https://wiki.vifn.app/x/UYKgB",
       "active": true,
       "moved": 0
     },
@@ -29,7 +29,7 @@
       "quadrant": 0,
       "ring": 2,
       "label": "Domain Driven Design",
-      "link": "https://wiki.vifn.app/x/XIJmAw",
+      "link": "https://wiki.vifn.app/x/UYKgB",
       "active": true,
       "moved": 0
     },
@@ -66,6 +66,13 @@
       "quadrant": 2,
       "ring": 3,
       "label": "On premise Infrastructure",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Python",
       "active": true,
       "moved": 0
     }
