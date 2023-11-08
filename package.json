@@ -1,6 +1,6 @@
 {
-  "name": "zalando-tech-radar",
-  "version": "2022.5.0",
+  "name": "csl-tech-radar",
+  "version": "2023.1.0",
   "description": "Visualizing our technology choices",
   "homepage": "https://github.com/zalando/tech-radar#readme",
   "repository": "https://github.com/zalando/tech-radar.git",
